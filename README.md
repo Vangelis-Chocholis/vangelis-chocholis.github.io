@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Education
-- M.S., High Energy Physics & Cosmology     University of Crete (2019 - 2020)
-- B.S., Physics                             University of Crete (2014 - 2019)
+- M.S., High Energy Physics & Cosmology @ University of Crete (2019 - 2020)
+- B.S., Physics @ University of Crete (2014 - 2019)
 
 ### Technical Skills
 - Programming Languages: Python, SQL
@@ -20,17 +20,17 @@ The goal of this [app](https://rock-music-analytics.streamlit.app) is to visuali
 
 ##### 🗐 Pages
 ##### 🎸 Tracks Page: 
-![Alt Text](files/images/tracks-page.gif)  
+![Alt Text](assets/img/tracks-page.gif)  
 This page offers insights into track popularity trends, audio feature distributions, and comparisons between tracks. Users can apply filters for track popularity and audio features to answer a variety of questions.
 
 
 ##### 🧑🏽‍🎤 Artists Page: 
-![Alt Text](files/images/artists-page.gif)  
+![Alt Text](assets/img/artists-page.gif)  
 This page presents popularity and follower trends for legendary rock artists.
 
 
 ##### 📊 Clustering Page: 
-![Alt Text](files/images/clustering-page.gif)  
+![Alt Text](assets/img/clustering-page.gif)  
 This page displays the results of a clustering analysis, where tracks are grouped based on their audio features. Users can filter tracks by popularity and/or artist to explore the clusters further.
 
 
@@ -55,7 +55,7 @@ Data extraction and transformation/cleaning are handled in the `extract_transfor
 ##### Load:
 We created the database tables and also load the static (time independent) data by running the Python script `create_DB_load_static_data.py` once. At this stage, we connected Python to our database to execute SQL queries for creating our tables. The tables and their connections are illustrated in the following database diagram.
 
-![Alt Text](files/images/database_diagram.png)
+![Alt Text](assets/img/database_diagram.png)
 
 
  Moving forward, we called `get_static_tables` function we mentioned earlier to get the static tables and finally loaded them into our database using `pandas`.
@@ -63,6 +63,6 @@ We created the database tables and also load the static (time independent) data 
 For dynamic data, such as artist/album/track popularity and artist followers, we have scheduled daily database updates by executing the `main.py` Python script with GitHub Actions. This Python script manages the ETL process for the dynamic data tables every day and writes to the `status.log` to indicate whether the code execution was successful. This ETL process is illustrated in the image that follows.
 
 
-![Alt Text](files/images/ETL.png)
+![Alt Text](assets/img/ETL.png)
 
 
