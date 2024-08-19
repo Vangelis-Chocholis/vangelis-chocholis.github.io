@@ -13,36 +13,39 @@
 ## Projects
 
 ### Rock Music Analytics App
-
+📌 [GitHub repo](https://github.com/Vangelis-Chocholis/rock-music-analytics-app)
+📌 [Rock Music Analytics App](https://rock-music-analytics.streamlit.app)
 ##### 🎯 Project purpose
-The goal of this [app](https://rock-music-analytics.streamlit.app) is to visualize data on legendary rock artists, making it easy for users to explore and answer questions through interactive data visualizations.
+The goal of this project is to visualize data on legendary rock artists, making it easy for users to explore and answer questions through interactive data visualizations.
 
 
-##### 🗐 Pages
-##### 🎸 Tracks Page: 
+##### 🗐 Results
+The result is a web application built with Python, where each page serves a specific purpose as described below.
+###### 🎸 Tracks Page: 
 ![Alt Text](assets/img/tracks-page.gif)  
 This page offers insights into track popularity trends, audio feature distributions, and comparisons between tracks. Users can apply filters for track popularity and audio features to answer a variety of questions.
 
 
-##### 🧑🏽‍🎤 Artists Page: 
+###### 🧑🏽‍🎤 Artists Page: 
 ![Alt Text](assets/img/artists-page.gif)  
 This page presents popularity and follower trends for legendary rock artists.
 
 
-##### 📊 Clustering Page: 
+###### 📊 Clustering Page: 
 ![Alt Text](assets/img/clustering-page.gif)  
 This page displays the results of a clustering analysis, where tracks are grouped based on their audio features. Users can filter tracks by popularity and/or artist to explore the clusters further.
 
 
 ##### 🗃️ Data
-The data have been collected from the Spotify API and stored in a cloud database. An automated E.T.L. process is running every day to update the data. For details about the E.T.L. process, refer to the github repository link below.
+The data have been collected from the Spotify API and stored in a cloud database. An automated E.T.L. process is running every day to update the data. For details, refer to the [E.T.L. GitHub repository](https://github.com/Vangelis-Chocholis/ETL_Spotify_data)
 
 
-📌 [E.T.L. GitHub repository](https://github.com/Vangelis-Chocholis/ETL_Spotify_data)
+
 
 
 
 ### Extract-Transform-Load: From Spotify to Azure
+📌 [GitHub repository](https://github.com/Vangelis-Chocholis/ETL_Spotify_data)
 ##### Summary:
 For this project, we created a SQL Server database on the cloud using Microsoft Azure. The objective was to extract data for legendary rock 🎸 artists from the Spotify API, transform/clean the data, and then load it into our cloud database, resulting in a database that is automatically updated daily.
 
