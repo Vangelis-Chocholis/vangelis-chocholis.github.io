@@ -10,9 +10,9 @@
 - Mathematical Expertise: Linear Algebra, Multivariate Calculus, Statistics
 
 
-### Projects
+## Projects
 
-#### Rock Music Analytics App
+### Rock Music Analytics App
 
 ##### 🎯 Project purpose
 The goal of this [app](https://rock-music-analytics.streamlit.app) is to visualize data on legendary rock artists, making it easy for users to explore and answer questions through interactive data visualizations.
@@ -42,7 +42,7 @@ The data have been collected from the Spotify API and stored in a cloud database
 
 
 
-#### Extract-Transform-Load: From Spotify to Azure
+### Extract-Transform-Load: From Spotify to Azure
 ##### Summary:
 For this project, we created a SQL Server database on the cloud using Microsoft Azure. The objective was to extract data for legendary rock 🎸 artists from the Spotify API, transform/clean the data, and then load it into our cloud database, resulting in a database that is automatically updated daily.
 
