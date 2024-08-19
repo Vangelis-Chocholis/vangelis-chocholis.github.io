@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Education
-- M.S., High Energy Physics & Cosmology     University of Crete (Sep. 2019 - Oct. 2020)
-- B.S., Physics                             University of Crete (Sep. 2014 - Sep. 2019)
+- M.S., High Energy Physics & Cosmology     University of Crete (2019 - 2020)
+- B.S., Physics                             University of Crete (2014 - 2019)
 
 ### Technical Skills
 - Programming Languages: Python, SQL
