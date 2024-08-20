@@ -5,7 +5,6 @@ logo: ./assets/img/linkedIn_image.jpg
 theme: jekyll-theme-minimal
 
 
-author:
-  email: "vangelischocholis@gmail.com" 
-  github: "Vangelis-Chocholis"
-  linkedin: "Vangelis Chocholis"
+email: vangelischocholis@gmail.com
+github: Vangelis-Chocholis
+linkedin: Vangelis Chocholis
