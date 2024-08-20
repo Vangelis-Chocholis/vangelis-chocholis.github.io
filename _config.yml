@@ -1,13 +1,9 @@
 title: Vangelis Chocholis
 logo: ./assets/img/linkedIn_image.jpg
-description: #>
- # [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) |
- # [Email](mailto:your.email@example.com)
-#show_downloads: true
-
-author:
- email: vangelischocholis@gmail.com
- github: Vangelis-Chocholis
- linkedin: vangelis-chocholis
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
+  <a href="https://www.linkedin.com/in/vangelis-chocholis/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
+  <br><br>
+ # <a href="https://rpubs.com/jacoblundeen"> <img src="https://img.shields.io/badge/RPubs-blue?logo=R"> </a>
 
 theme: jekyll-theme-minimal
