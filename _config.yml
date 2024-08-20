@@ -3,7 +3,7 @@ logo: ./assets/img/linkedIn_image.jpg
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data scientist with a strong quantitative background,
   proficient in delivering end-to-end solutions, including data extraction,
-  data visualization, statistical analysis, and deployment.
+  data visualization, statistical analysis, and deployment. <br><br>
   
   <a href="https://www.linkedin.com/in/vangelis-chocholis/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
   
