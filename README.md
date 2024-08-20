@@ -12,7 +12,7 @@
 
 ## Projects
 
-### Rock Music Analytics App
+### **Rock Music Analytics App**
 📌 [GitHub repo](https://github.com/Vangelis-Chocholis/rock-music-analytics-app)  
 📌 [Rock Music Analytics App](https://rock-music-analytics.streamlit.app)
 ##### 🎯 Project purpose
@@ -50,7 +50,7 @@ The data have been collected from the Spotify API and stored in a cloud database
 For this project, we created a SQL Server database on the cloud using Microsoft Azure. The objective was to extract data for legendary rock 🎸 artists from the Spotify API, transform/clean the data, and then load it into our cloud database, resulting in a database that is automatically updated daily.
 
 
-##### Extract-Transform-Load process:
+##### **Extract-Transform-Load process:**
 
 ##### Extract-Transform:
 Data extraction and transformation/cleaning are handled in the `extract_transform_data.py` Python script. In this script we have implemented functions that extract artist data from Spotify API given a list of artist names. Then they get every album and track for each artist. Also, using suitable regular expressions they keep only original albums and tracks by removing live, demo, deluxe versions. We end up with a single function `get_static_tables` at the end of the script  that extracts and transforms/cleans every static data table.
