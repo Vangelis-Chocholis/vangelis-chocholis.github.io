@@ -4,9 +4,10 @@ description: #>
  # [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) |
  # [Email](mailto:your.email@example.com)
 #show_downloads: true
-theme: jekyll-theme-minimal
 
 author:
  email: vangelischocholis@gmail.com
  github: Vangelis-Chocholis
  linkedin: vangelis-chocholis
+
+#theme: jekyll-theme-minimal
