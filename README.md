@@ -13,7 +13,7 @@
 ## Projects
 
 ### Rock Music Analytics App
-📌 [GitHub repo](https://github.com/Vangelis-Chocholis/rock-music-analytics-app)
+📌 [GitHub repo](https://github.com/Vangelis-Chocholis/rock-music-analytics-app)  
 📌 [Rock Music Analytics App](https://rock-music-analytics.streamlit.app)
 ##### 🎯 Project purpose
 The goal of this project is to visualize data on legendary rock artists, making it easy for users to explore and answer questions through interactive data visualizations.
@@ -21,17 +21,17 @@ The goal of this project is to visualize data on legendary rock artists, making 
 
 ##### 🗐 Results
 The result is a web application built with Python, where each page serves a specific purpose as described below.
-###### 🎸 Tracks Page: 
+##### 🎸 Tracks Page: 
 ![Alt Text](assets/img/tracks-page.gif)  
 This page offers insights into track popularity trends, audio feature distributions, and comparisons between tracks. Users can apply filters for track popularity and audio features to answer a variety of questions.
 
 
-###### 🧑🏽‍🎤 Artists Page: 
+##### 🧑🏽‍🎤 Artists Page: 
 ![Alt Text](assets/img/artists-page.gif)  
 This page presents popularity and follower trends for legendary rock artists.
 
 
-###### 📊 Clustering Page: 
+##### 📊 Clustering Page: 
 ![Alt Text](assets/img/clustering-page.gif)  
 This page displays the results of a clustering analysis, where tracks are grouped based on their audio features. Users can filter tracks by popularity and/or artist to explore the clusters further.
 
