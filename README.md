@@ -40,7 +40,7 @@ This page displays the results of a clustering analysis, where tracks are groupe
 The data have been collected from the Spotify API and stored in a cloud database. An automated E.T.L. process is running every day to update the data. For details, refer to the [E.T.L. GitHub repository](https://github.com/Vangelis-Chocholis/ETL_Spotify_data)
 
 
-
+--------------------------------------
 
 
 
