@@ -67,5 +67,5 @@ For dynamic data, such as artist/album/track popularity and artist followers, we
 
 
 ![Alt Text](assets/img/ETL.png)
-
+----------------------------------------------
 
