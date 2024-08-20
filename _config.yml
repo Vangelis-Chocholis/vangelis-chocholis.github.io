@@ -1,8 +1,8 @@
 title: Vangelis Chocholis
 logo: ./assets/img/linkedIn_image.jpg
-description: >
-  [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) |
-  [Email](mailto:your.email@example.com)
+description: #>
+ # [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) |
+ # [Email](mailto:your.email@example.com)
 #show_downloads: true
 theme: jekyll-theme-minimal
 
