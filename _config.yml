@@ -4,9 +4,9 @@ logo: ./assets/img/linkedIn_image.jpg
 #show_downloads: true
 theme: jekyll-theme-minimal
 
-
-email: vangelischocholis@gmail.com
-
-# Social links
-github: https://github.com/Vangelis-Chocholis
-linkedin: https://www.linkedin.com/in/vangelis-chocholis/
+author:
+  email: vangelischocholis@gmail.com
+  
+  # Social links
+  github: https://github.com/Vangelis-Chocholis
+  linkedin: https://www.linkedin.com/in/vangelis-chocholis/
