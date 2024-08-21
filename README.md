@@ -12,15 +12,14 @@
 
 ## Portfolio
 
-### **Rock Music Analytics App**
-📌 [GitHub repo](https://github.com/Vangelis-Chocholis/rock-music-analytics-app)  
-📌 [Rock Music Analytics App](https://rock-music-analytics.streamlit.app)
+### [**Rock Music Analytics App**](https://rock-music-analytics.streamlit.app)
+Made with
 ##### 🎯 Project purpose
-The goal of this project is to visualize data on legendary rock artists, making it easy for users to explore and answer questions through interactive data visualizations.
+The aim of this project is to visualize data on legendary rock artists, making it easy for users to explore and answer questions through interactive data visualizations.
 
 
 ##### 🗐 Results
-The result is a web application built with Python, where each page serves a specific purpose as described below.
+The result is a web application, where each page serves a specific purpose as described below.
 ##### 🎸 Tracks Page: 
 ![Alt Text](assets/img/tracks-page.gif)  
 This page offers insights into track popularity trends, audio feature distributions, and comparisons between tracks. Users can apply filters for track popularity and audio features to answer a variety of questions.
@@ -36,8 +35,11 @@ This page presents popularity and follower trends for legendary rock artists.
 This page displays the results of a clustering analysis, where tracks are grouped based on their audio features. Users can filter tracks by popularity and/or artist to explore the clusters further.
 
 
-##### 🗃️ Data
-The data have been collected from the Spotify API and stored in a cloud database. An automated E.T.L. process is running every day to update the data. For details, refer to the [E.T.L. GitHub repository](https://github.com/Vangelis-Chocholis/ETL_Spotify_data)
+<br><br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+
+[GitHub repository](https://github.com/Vangelis-Chocholis/rock-music-analytics-app)
 
 
 --------------------------------------
