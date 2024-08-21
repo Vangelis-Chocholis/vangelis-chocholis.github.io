@@ -10,7 +10,7 @@
 - Mathematical Expertise: Linear Algebra, Multivariate Calculus, Statistics
 
 
-## Projects
+## Portfolio
 
 ### **Rock Music Analytics App**
 📌 [GitHub repo](https://github.com/Vangelis-Chocholis/rock-music-analytics-app)  
