@@ -36,7 +36,7 @@ This page displays the results of a clustering analysis, where tracks are groupe
 
 
 <br><br>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/Python-white?logo=Python">
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
 
 [GitHub repository](https://github.com/Vangelis-Chocholis/rock-music-analytics-app)
