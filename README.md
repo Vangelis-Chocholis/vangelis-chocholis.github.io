@@ -37,6 +37,7 @@ This page displays the results of a clustering analysis, where tracks are groupe
 
 <br><br>
 <img src="https://img.shields.io/badge/Python-white?logo=Python">
+![Streamlit]
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
 
