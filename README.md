@@ -46,7 +46,6 @@ This page displays the results of a clustering analysis, where tracks are groupe
 
 
 ### Extract-Transform-Load: From Spotify to Azure
-##### Summary:
 - Objective: Automate data extraction from the Spotify API for well-known rock artists.
 - Result: Implemented a cloud database that is updated
 daily through an automated ETL process.
