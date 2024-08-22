@@ -12,7 +12,7 @@
 
 ## Portfolio
 
-[**Rock Music Analytics App**](https://rock-music-analytics.streamlit.app)
+### [**Rock Music Analytics App**](https://rock-music-analytics.streamlit.app)
 - Objective: The aim of this project is to visualize data on legendary rock artists, making it easy for users to explore and answer questions through interactive data visualizations.
 - Results: Created multi-page web application, with each page designed to address specific questions.  
   
