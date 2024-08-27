@@ -6,7 +6,7 @@
 
 ### Technical Skills
 - Programming Languages: Python, SQL
-- Tools: MS Excel, MS Power BI, Tableau
+- Tools: Excel, Power BI, Tableau, Azure, git
 - Mathematical Expertise: Linear Algebra, Multivariate Calculus, Statistics
 
 
